@@ -1,1 +1,8 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.OMG {
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+#excuse {
+  text-align: center;
+}
